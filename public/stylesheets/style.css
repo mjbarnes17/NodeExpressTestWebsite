@@ -1,0 +1,47 @@
+body {
+  padding-top: 50px;
+  text-align: center;
+}
+
+img {
+  margin-top: 50px;
+}
+
+footer {
+  border-top: 2px solid;
+  border-color: #f4f4f4;
+  height: 100px;
+  margin-top: 100px;
+  padding-top: 45px;
+  text-align: center;
+  overflow: auto;
+}
+
+#jumbotron-home {
+  padding-top: 280px;
+  height: 850px;
+  background: linear-gradient(#616161, transparent 90%),
+              linear-gradient(0deg, #fff, transparent 100%),
+              url(../images/jumbotron_image.jpg) fixed no-repeat center;
+  background-size: cover;
+  color: #fff;
+}
+
+#jumbotron-about {
+  padding-top: 280px;
+  height: 850px;
+  background: linear-gradient(#616161, transparent 90%),
+              linear-gradient(0deg, #fff, transparent 100%),
+              url(../images/about_img.jpg) fixed no-repeat center;
+  background-size: cover;
+  color: #fff;
+}
+#jumbotron-contact {
+  padding-top: 280px;
+  height: 850px;
+  background: linear-gradient(#616161, transparent 90%),
+              linear-gradient(0deg, #fff, transparent 100%),
+              url(../images/contact_img.jpg) fixed no-repeat center;
+  background-size: cover;
+  color: #fff;
+}
